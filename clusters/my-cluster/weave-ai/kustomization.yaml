@@ -9,4 +9,5 @@ resources:
 - Roles.yaml
 - Service.yaml
 - OCIRepository.yaml
-
+- LanguageModel.yaml
+- Deployment-ui.yaml
