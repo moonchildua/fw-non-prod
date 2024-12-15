@@ -8,4 +8,5 @@ resources:
 - RoleBinding.yaml
 - Roles.yaml
 - Service.yaml
+- OCIRepository.yaml
 
