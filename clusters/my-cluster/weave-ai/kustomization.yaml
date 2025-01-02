@@ -9,3 +9,5 @@ resources:
 - RoleBinding.yaml
 - Roles.yaml
 - Service.yaml
+- LanguageModel.yaml
+- Deployment-ui.yaml
